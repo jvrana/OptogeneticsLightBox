@@ -9,7 +9,8 @@ A programmable light delivery box for optogenetics experiments. This small and c
     * program pulse length, interval, intensity
 * powerful 700mA LEDs
 * convinient LCD screen
-
+* swap out LED formats (4X3, 3X1 arrays, etc.)
+* swap out LED colors (blue, red, etc.)
 
 ## Repo Contents
 * [Arduino code](src/LEDProgrammer_V2-32.ino)
@@ -44,6 +45,12 @@ quantification of retraction (average and s.e.m., n=16) in cells
   Inset images at right show detail within white square. Scale bar,
   20 μm. (e) Stress fibres within cells expressing CRY2olig–GFP–VCA,
   CRY2olig and mCherry–actin are disrupted with light exposure.
+
+## How to Get/Build One
+
+If you'd like to build one yourself, create an issue on this repo so I can gauge interest. 
+
+If you'd like to purchase one of these, please contact me.
 
 ## Gallery
 
