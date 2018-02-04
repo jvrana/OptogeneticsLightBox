@@ -1,5 +1,5 @@
 # OptogeneticsLightBox
-A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications<sup>1,2,3,4,5,6</sup>
+A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications [<sup>1,2,3,4,5,6</sup>](#References)
 
 ![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
@@ -19,7 +19,7 @@ A programmable light delivery box for optogenetics experiments. This small and c
 
 ## Using the Light Box:
 
-Changing cell shape using light. Proteins involved with
+**Changing cell shape using light.** Proteins involved with
 actin polymerization (SH3) were fused to a mutant plant protein that
 clusters in reponse to blue light. Constructs were transfected into monkey cells
 and ths Light Box was used to pulse blue light with the hypothesis that clustering
