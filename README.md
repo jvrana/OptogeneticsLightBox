@@ -62,9 +62,14 @@ quantification of retraction (average and s.e.m., n=16) in cells
 
 # References
 
-1. Pathak, G. P. et al. Bidirectional approaches for optogenetic regulation of gene expression in mammalian cells using Arabidopsis cryptochrome 2. Nucleic Acids Res. 45, e167 (2017).
-2. Taslimi, A. et al. Optimized second-generation CRY2-CIB dimerizers and photoactivatable Cre recombinase. Nat. Chem. Biol. 12, 425–30 (2016).
-3. Taslimi, A., Vrana, J. D., et al. An optimized optogenetic clustering tool for probing protein interaction and function. Nature communications 5, 4925 (2014).
-4. Pathak, G. P., Strickland, D., Vrana, J. D. & Tucker, C. L. Benchmarking of optical dimerizer systems. ACS Synth Biol 3, 832–8 (2014).
-5. Hughes, R. M., Vrana, J. D., Song, J. & Tucker, C. L. Light-dependent, Dark-promoted Interaction between Arabidopsis Cryptochrome 1 and Phytochrome B Proteins. Journal of Biological Chemistry 287, 22165–22172 (2013).
+https://www.nature.com/articles/nchembio.2063
+https://www.nature.com/articles/ncomms5925
+https://pubs.acs.org/doi/10.1021/sb500291r
+http://www.jbc.org/content/287/26/22165.long
+
+1. [Pathak, G. P. et al. Bidirectional approaches for optogenetic regulation of gene expression in mammalian cells using Arabidopsis cryptochrome 2. Nucleic Acids Res. 45, e167 (2017).](https://academic.oup.com/nar/article/45/20/e167/3744534)
+2. [Taslimi, A. et al. Optimized second-generation CRY2-CIB dimerizers and photoactivatable Cre recombinase. Nat. Chem. Biol. 12, 425–30 (2016).](https://www.nature.com/articles/nchembio.2063)
+3. [Taslimi, A., Vrana, J. D., et al. An optimized optogenetic clustering tool for probing protein interaction and function. Nature communications 5, 4925 (2014).](https://www.nature.com/articles/ncomms5925)
+4. [Pathak, G. P., Strickland, D., Vrana, J. D. & Tucker, C. L. Benchmarking of optical dimerizer systems. ACS Synth Biol 3, 832–8 (2014).](https://pubs.acs.org/doi/10.1021/sb500291r)
+5. [Hughes, R. M., Vrana, J. D., Song, J. & Tucker, C. L. Light-dependent, Dark-promoted Interaction between Arabidopsis Cryptochrome 1 and Phytochrome B Proteins. Journal of Biological Chemistry 287, 22165–22172 (2013).](http://www.jbc.org/content/287/26/22165.long)
 6. Tucker, C. L., Vrana, J. D. & Kennedy, M. J. in Current protocols in cell biology / editorial board, Juan S. Bonifacino ... [et al.] 64, 17.16.1–20 (Current protocols in cell biology / editorial board, Juan S. Bonifacino ... [et al.], 2014).
