@@ -3,11 +3,9 @@ A programmable light delivery box for optogenetics experiments. This small and c
 
 **Optogenetics?** - Broadly, optogenetics is the process of delivering light to cells to control function, often using engineered genetic constructs. Light offers several advantages over using chemicals for controlling cell behavior including spatio-temporal control, being basically free and limitless, and having minimal biological side effects. With light you can induce gene expression, stop gene expression, degrade proteins, initiate protein-protein interactions, activate neurons, and much more.
 
-**What is it?** - This light box delivers programmed *doses* of light and determined intervals. It has three independent outputs than can be programmed independently via a LCD screen. Useful assuming if you want to do some controls or comparisons, this feature is useful.
+**What is it?** - This light box delivers programmed *doses* of light and determined intervals. It has three independent outputs than can be programmed independently via a LCD screen. Useful assuming if you want to do some controls or comparisons, this feature is useful. You can program the timing, interval, intensity, etc. for each LED output.
 
-![LightBoxTopOn](images/LightBoxTopOn.jpeg)
-
-## Features:
+### Features:
 
 * three independent programmable LED outputs
     * program pulse length, interval, intensity
@@ -15,6 +13,8 @@ A programmable light delivery box for optogenetics experiments. This small and c
 * convinient LCD screen
 * swap out LED formats (4X3, 3X1 arrays, etc.)
 * swap out LED colors (blue, red, etc.)
+
+![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
 ## Repo Contents
 * [Arduino code](src/LEDProgrammer_V2-32.ino)
@@ -55,7 +55,8 @@ quantification of retraction (average and s.e.m., n=16) in cells
 If you'd like to build one yourself, create an issue on this repo so I can gauge interest. 
 
 If you'd like to purchase one of these, please contact me. I've been commissed to build these for others before,
-so let me know if you'd like one.
+so let me know if you'd like one. The overall cost for commissioning me to build one averages $600-700 (50% material, 50% labor), with the main material cost being the cost is the LEDs, which can be quite expensive. The design is robust and
+previous builds have all latest multiple years in the lab.
 
 ## Gallery
 
