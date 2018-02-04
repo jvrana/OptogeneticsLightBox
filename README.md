@@ -17,9 +17,33 @@ A programmable light delivery box for optogenetics experiments. This small and c
 * [Materials list](design/LEDControllerPartsList.xlsx)
 * [Gallery](Gallery.md)
 
-## Example:
+## Using the Light Box:
 
-The above lightbox was used on COS-7 cells
+Changing cell shape using light. Proteins involved with
+actin polymerization (SH3) were fused to a mutant plant protein that
+clusters in reponse to blue light. Constructs were transfected into monkey cells
+and ths Light Box was used to pulse blue light with the hypothesis that clustering
+SH3 domains would recruit other proteins involved with actin polymerization and disrupt
+the surrounding cytoskeleton. The figure below demonstrates this and shows that, as
+a result, we can also alter cell shape using light.
+
+![Light mediated cytoskeleton disruption](images/Fig5NatComms.jpg)
+
+[Taslimi, A., Vrana, J. D., et al. An optimized optogenetic clustering tool for probing protein interaction and function. Nature communications 5, 4925 (2014).](https://www.nature.com/articles/ncomms5925)
+
+a) Strategy for clustering Nck SH3 domains. (b) Cells expressing
+CRY2olig–mCh–Nck and GFP–actin in dark, or 60 min post blue light
+(500 ms pulse, 488 nm, every 3 min). Scale bar, 20 μm. (c) Local
+photostimulation (within circle) of COS-7 cell expressing CRY2olig–mCh–Nck
+results in retraction of cell extension. Graph at right shows
+quantification of retraction (average and s.e.m., n=16) in cells
+ expressing CRY2olig–mCh–Nck, or controls CRY2olig–mCh or mCherryN1
+  45 min post initial light exposure. ***P<0.001. NS, not significant.
+  (d) Cells expressing CRY2olig–mCh–VCA, CRY2olig and GFP–actin in
+  dark or 6 min post blue light (500 ms pulse, 488 nm, every 3 min).
+  Inset images at right show detail within white square. Scale bar,
+  20 μm. (e) Stress fibres within cells expressing CRY2olig–GFP–VCA,
+  CRY2olig and mCherry–actin are disrupted with light exposure.
 
 ## Gallery
 
