@@ -1,5 +1,9 @@
-# OptogeneticsLightBox
-A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications [<sup>1,2,3,4,5,6</sup>](#references). This isn't rocket science, but its important to have a reliable, robust, and hardy system for delivering light while doing long and expensive optogenetics experiments. 
+# Optogenetics Light Box
+A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications [<sup>1,2,3,4,5,6</sup>](#references). Making something that flashes light isn't rocket science, but its important to have a robust, and hardy system for delivering light in a reliable and reproducible way while doing long and expensive optogenetics experiments. 
+
+**Optogenetics?** - Broadly, optogenetics is the process of delivering light to cells to control function, often using engineered genetic constructs. Light offers several advantages over using chemicals for controlling cell behavior including spatio-temporal control, being basically free and limitless, and having minimal biological side effects. With light you can induce gene expression, stop gene expression, degrade proteins, initiate protein-protein interactions, activate neurons, and much more.
+
+**What is it?** - This light box delivers programmed *doses* of light and determined intervals. It has three independent outputs than can be programmed independently via a LCD screen. Useful assuming if you want to do some controls or comparisons, this feature is useful.
 
 ![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
@@ -50,7 +54,8 @@ quantification of retraction (average and s.e.m., n=16) in cells
 
 If you'd like to build one yourself, create an issue on this repo so I can gauge interest. 
 
-If you'd like to purchase one of these, please contact me.
+If you'd like to purchase one of these, please contact me. I've been commissed to build these for others before,
+so let me know if you'd like one.
 
 ## Gallery
 
