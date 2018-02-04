@@ -1,5 +1,5 @@
 # OptogeneticsLightBox
-A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications [<sup>1,2,3,4,5,6</sup>](#References)
+A programmable light delivery box for optogenetics experiments. This small and cheap light delivery system was used in several publications [<sup>1,2,3,4,5,6</sup>](#references)
 
 ![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
