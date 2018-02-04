@@ -1,9 +1,9 @@
 # OptogeneticsLightBox
 A programmable light delivery box for optogenetics experiments.
 
-
-* laser cutter files
+This repo contains:
+* Laser cutter files
 * Arduino code
-* materials list
+* Materials list
 
 ![LightBoxTopOn](images/LightBoxTopOn.jpeg)
