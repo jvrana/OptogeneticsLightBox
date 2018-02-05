@@ -87,6 +87,8 @@ Nothing really interesting here...
 
 # References
 
+Here are several papers that have used this design...
+
 1. [Pathak, G. P. et al. Bidirectional approaches for optogenetic regulation of gene expression in mammalian cells using Arabidopsis cryptochrome 2. Nucleic Acids Res. 45, e167 (2017).](https://academic.oup.com/nar/article/45/20/e167/3744534)
 2. [Taslimi, A. et al. Optimized second-generation CRY2-CIB dimerizers and photoactivatable Cre recombinase. Nat. Chem. Biol. 12, 425–30 (2016).](https://www.nature.com/articles/nchembio.2063)
 3. [Taslimi, A., Vrana, J. D., et al. An optimized optogenetic clustering tool for probing protein interaction and function. Nature communications 5, 4925 (2014).](https://www.nature.com/articles/ncomms5925)
