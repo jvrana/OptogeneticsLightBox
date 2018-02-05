@@ -61,16 +61,28 @@ previous builds have all latest multiple years in the lab with no issues.
 ## Gallery
 
 ### Top
+
+Demonstrating the input LCD screen. Its pretty straight forward. You can select the output (1, 2, or 3) and the light delivery characteristics (interval, pulse length, pulse intensity). The screen will also disply how long the program has been running for.
+
 ![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
 ### Front
+
+Up to three sets of LED arrays can be plugged into the front panel. Outputs are driven by a LED driver and support a variety of formats (4x3, 3x1, etc.).
+
 ![LightBoxFront](images/LightBoxFront.jpeg)
 
 ### Side
+
+Hole for plugging in the Arduino USB-C cable. Ventilation on the other side.
+
 ![LightBoxSide1](images/LightBoxSide1.jpeg)
 ![LightBoxSide2](images/LightBoxSide2.jpeg)
 
 ### Back
+
+Nothing really interesting here...
+
 ![LightBoxBack](images/LightBoxBack.jpeg)
 
 # References
