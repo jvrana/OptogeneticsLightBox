@@ -14,7 +14,7 @@ A programmable light delivery box for optogenetics experiments. This small and c
 * swap out LED formats (4X3, 3X1 arrays, etc.)
 * swap out LED colors (blue, red, etc.)
 
-![LightBoxTopOn](images/LightBoxTopOn.jpeg)
+![LightBoxOn](images/LightBoxOn.jpeg)
 
 ## Repo Contents
 * [Arduino code](src/LEDProgrammer_V2-32.ino)
@@ -61,7 +61,7 @@ previous builds have all latest multiple years in the lab.
 ## Gallery
 
 ### Top
-![LightBoxOn](images/LightBoxOn.jpeg)
+![LightBoxTopOn](images/LightBoxTopOn.jpeg)
 
 ### Front
 ![LightBoxFront](images/LightBoxFront.jpeg)
