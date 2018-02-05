@@ -56,7 +56,7 @@ If you'd like to build one yourself, create an **issue** on this repo (or **star
 
 If you'd like to purchase one of these, please contact me. I've been commissed to build these for others before,
 so let me know if you'd like one. The overall cost for commissioning me to build one averages $600-700 (50% material, 50% labor), with the main material cost being the cost is the LEDs, which can be quite expensive. The design is robust and
-previous builds have all latest multiple years in the lab.
+previous builds have all latest multiple years in the lab with no issues.
 
 ## Gallery
 
