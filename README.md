@@ -12,6 +12,8 @@ A programmable light delivery box for optogenetics experiments. This small and c
 * powerful 700mA LEDs
 * convinient LCD screen
 * swap out LED formats (4X3, 3X1 arrays, etc.)
+   * evenly target 12-well dishes for miscroscopy experiments (4x3)
+   * deliver light to yeast plates (3x1)
 * swap out LED colors (blue, red, etc.)
 
 ![LightBoxOn](images/LightBoxOn.jpeg)
